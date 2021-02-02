@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="compressing">درحال فشرده سازی …</string>
+    <string name="camera">دوربین</string>
+    <string name="gallery">گالری</string>
+</resources>

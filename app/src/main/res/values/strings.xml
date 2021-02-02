@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProPickerSample</string>
+    <string name="show_camera_compress">Show Camera | Compress</string>
+    <string name="show_camera_with_crop">Show Camera with Crop</string>
+    <string name="show_gallery_only">Show Gallery Only</string>
+    <string name="choose_option">Choose Option</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ProPickerSample</string>
+    <string name="show_camera_compress">دوربین | فشرده سازی</string>
+    <string name="show_camera_with_crop">دوربین با برش</string>
+    <string name="show_gallery_only">فقط انتخاب از گالری</string>
+    <string name="choose_option">انتخاب گزینه ها</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="compressing">Compressing…</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+</resources>
