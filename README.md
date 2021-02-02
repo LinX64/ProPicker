@@ -3,16 +3,16 @@
 A simple library to select images from the gallery and camera with RTL support.
 
 
-##### Functions
+## Functions
 
-## For Camera
+### For Camera
 
 1. `cameraOnly()` -> To open the CameraX only
 3. `crop()` -> Only works with camera
 3. `compressImage` -> compresing image work for both gallery and camera
 
 
-## Gallery related function
+### Gallery related function
 4. `galleryOnly()` -> To open the gallery view only
 5. `singleSelection` -> Pick single file
 6. `multiSelection` -> Pick multi file and get the result as ArrayList    
@@ -22,7 +22,7 @@ A simple library to select images from the gallery and camera with RTL support.
 10. `onlyImage` -> Select image from gallery
 11. `onlyVideo` -> Select video from gallery
 
-## Receiver the result
+### Receiver the result
 
 12. `ProPicker.getPickerDataAsByteArray(this, intent)` -> Returns all the data as ByteArray 
 13. `ProPicker.getSelectedPickerDatas(intent: Intent)` -> Get all the data 
