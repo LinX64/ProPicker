@@ -22,7 +22,7 @@ A simple library to select images from the gallery and camera with RTL support.
 10. `onlyImage` -> Select image from gallery
 11. `onlyVideo` -> Select video from gallery
 
-### Receiver the result
+### Receive the result
 
 12. `ProPicker.getPickerDataAsByteArray(this, intent)` -> Returns all the data as ByteArray 
 13. `ProPicker.getSelectedPickerDatas(intent: Intent)` -> Get all the data 
